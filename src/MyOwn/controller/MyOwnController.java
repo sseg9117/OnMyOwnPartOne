@@ -6,5 +6,8 @@ public class MyOwnController
 	{
 		System.out.println("Hi");
 	}
-
+	
+	{
+		
+	}
 }
